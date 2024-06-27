@@ -1,0 +1,4 @@
+﻿# Moo.CustomFakeNotification
+A semi-transparent window that appears in the bottom-right corner of the screen somewhat reminiscent of fake AVs from the Windows XP days. It does a fake scan that just goes through the names of running processes and flashes "Hackers detected!". The majority of the text is hard-coded in the main window view model, but the phone number can be changed to whatever line of text you want by editing number.txt. This window can only be closed by pressing the left Alt key 3 times in a row (you may need to spam it) or by killing the process. Alt-F4 will not work.
+
+!["Custom fake notification"](/screenshots/youcomputerindanger.png)
